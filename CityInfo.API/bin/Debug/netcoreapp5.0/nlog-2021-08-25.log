@@ -1,0 +1,111 @@
+2021-08-25 12:01:20.2677|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:01:20.3148|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:01:20.3343|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:01:34.8199|FATAL|CityInfo.API.Controllers.PointsOfInterestController|Exception while getting points of interest for city with id 10
+2021-08-25 12:09:20.8790|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:09:22.9001|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:09:22.9248|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:09:22.9348|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:09:32.8867|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:09:35.0350|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:09:35.0461|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:09:35.0461|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:09:46.8118|INFO|CityInfo.API.Controllers.PointsOfInterestController|City with id 10 was not found when accessing point of interest.
+2021-08-25 12:10:17.8775|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:10:19.8003|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:10:19.8120|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:10:19.8120|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:10:25.6972|FATAL|CityInfo.API.Controllers.PointsOfInterestController|Exception while getting points of interest for city with id 10
+2021-08-25 12:27:09.1323|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:27:13.2575|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:27:13.2983|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:27:13.2983|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:36:42.3755|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:36:44.0708|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:36:44.0835|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:36:44.0835|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:44:01.0713|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:44:02.8668|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:44:02.8789|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:44:02.8789|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:46:29.1362|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:46:31.0770|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:46:31.0770|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:46:31.0919|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 12:47:12.4188|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 12:47:14.8057|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 12:47:14.8256|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 12:47:14.8256|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 13:04:03.6247|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 13:04:05.2940|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 13:04:05.3081|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 13:04:05.3081|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 13:04:53.1996|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 13:04:54.6690|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 13:04:54.6806|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 13:04:54.6806|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 13:12:15.2340|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 13:12:16.8496|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 13:12:16.8626|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2021-08-25 13:12:16.8626|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 14:36:19.2160|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 14:36:21.1614|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 14:36:21.1760|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 14:36:21.1760|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInto.API
+2021-08-25 14:45:57.0019|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-08-25 14:47:16.0089|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-08-25 14:48:40.1570|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-08-25 14:53:48.9901|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(200) NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2021-08-25 16:23:50.8849|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:23:55.3263|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 16:23:55.3461|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 16:23:55.3461|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-25 16:34:31.7389|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:34:41.4721|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 16:34:41.4942|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 16:34:41.5027|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-25 16:43:31.5904|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:44:36.5966|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:44:53.9746|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-25 16:44:54.2617|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 16:44:54.2617|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 16:44:54.2698|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-25 16:48:53.8114|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:49:40.5890|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-25 16:49:40.8835|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 16:49:40.8835|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-25 16:49:40.8835|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-25 16:49:53.7103|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:49:58.0842|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-25 16:49:58.3134|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 16:49:58.3258|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2021-08-25 16:49:58.3319|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-25 16:50:17.8256|INFO|CityInto.API.Program|Initializing app..
+2021-08-25 16:50:32.9943|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-25 16:50:33.2879|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-25 16:50:33.2879|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Production
+2021-08-25 16:50:33.3043|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API

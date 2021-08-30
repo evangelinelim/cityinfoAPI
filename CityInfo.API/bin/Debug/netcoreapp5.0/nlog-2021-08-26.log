@@ -1,0 +1,75 @@
+2021-08-26 13:07:17.4690|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:11:53.9426|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:13:54.5110|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:14:01.4046|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-26 13:14:01.7069|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:14:01.7069|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:14:01.7224|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 13:20:01.8823|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:20:10.0587|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-26 13:20:10.2419|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:20:10.2419|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:20:10.2419|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 13:22:22.7147|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:22:26.7194|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-26 13:22:26.8963|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:22:26.8963|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:22:26.9109|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 13:29:21.1037|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:29:22.9605|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-26 13:29:23.1527|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:29:23.1635|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:29:23.1635|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 13:33:56.8629|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:34:12.8855|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:37:41.2096|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:37:45.9029|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-26 13:37:46.0867|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:37:46.0986|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:37:46.0986|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 13:42:22.8196|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:42:30.3317|ERROR|CityInto.API.Program|An error occurred while migrating the database
+2021-08-26 13:42:30.5691|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:42:30.5836|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:42:30.5836|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 13:45:04.4556|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 13:45:14.9711|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 13:45:14.9890|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 13:45:14.9890|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 14:16:20.0069|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 14:16:27.4617|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 14:16:27.4856|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 14:16:27.4961|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 15:01:52.6597|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 15:01:58.6743|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 15:01:58.6743|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 15:01:58.6920|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 15:02:58.9823|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 15:03:01.8180|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 15:03:01.8304|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 15:03:01.8304|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 15:26:47.5753|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 15:26:54.0485|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 15:26:54.0623|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 15:26:54.0662|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 16:08:47.1255|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 16:08:53.6406|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 16:08:53.6555|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 16:08:53.6625|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 16:08:54.1747|INFO|CityInfo.API.Controllers.PointsOfInterestController|City with id 10 was not found when accessing point of interest.
+2021-08-26 16:10:38.8267|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 16:10:45.2243|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 16:10:45.2409|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 16:10:45.2409|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 16:44:38.5994|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 16:44:46.0356|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 16:44:46.0356|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 16:44:46.0516|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 19:07:56.8717|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 19:08:03.1505|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 19:08:03.1623|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 19:08:03.1623|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
+2021-08-26 19:09:16.1305|INFO|CityInto.API.Program|Initializing app..
+2021-08-26 19:09:19.3135|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-08-26 19:09:19.3285|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-08-26 19:09:19.3328|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\source\CityInfo.API\CityInfo.API
